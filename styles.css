@@ -28,8 +28,35 @@ h2 {
     margin-bottom: 32px;
 }
 
+h3 {
+    background-color: rgb(255, 104, 175) ;
+    color: white;
+    padding: 11px;
+    font-size: 17px;
+    font-weight: 550;
+    border-radius: 15px ;
+    margin-bottom: 20px;
+}
+
+h4 {
+    background-color: rgb(255, 104, 175) ;
+    color: white;
+    padding: 11px;
+    font-size: 17px;
+    font-weight: 550;
+    border-radius: 15px ;
+    margin-bottom: 20px;
+    text-align: right;
+}
+
+ul {
+    color: rgb(255, 104, 175);
+    font-size: 20px;
+    font-weight: 600;
+}
+
 p {
-    font-size: 15px;
+    font-size: 13px;
     text-indent: 15px;
 }
 
